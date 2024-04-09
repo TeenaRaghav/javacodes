@@ -7,10 +7,10 @@ public class PracToCharArrayFn {
 		String str ="I am happy.";
 		char[] str1 = str.toCharArray();
 		
-//		  for(char a : str1){
-//			  System.out.println(a); 
-//			  }
-//		 
+		  for(char a : str1){
+			  System.out.print(a); 
+			  }
+		 
 	}
 }
 /*
